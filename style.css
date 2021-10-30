@@ -1,6 +1,8 @@
 body {
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     background: url('/Citycode.svg') center no-repeat;
     background-color: #2C3140;
+    margin-top: 600px;
+    background-size: 450px;
 }
